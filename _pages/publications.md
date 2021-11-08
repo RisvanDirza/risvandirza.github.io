@@ -21,7 +21,9 @@ Peer-reviewed Conference Publications
 * [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands.
 * [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
 
-{% if author.googlescholar %}
+<!-- This content will not appear in the rendered Markdown -->
+
+<!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -29,4 +31,4 @@ Peer-reviewed Conference Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
