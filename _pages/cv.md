@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,23 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering (focus on control engineering), Institute of Technology Bandung (ITB), Indonesia, 2011
-* M.Sc. in Systems and Control, Eindhoven University for Technology, The Netherlands, 2018
-* Ph.D (expected) in Production Optimization, Norwegian University of Science and Technology, Norway, 2023 (expected).
+* B.Sc. in Electrical Engineering (focus on control engineering), Institute of Technology Bandung (ITB), Indonesia, 2011.
+* M.Sc. in Systems and Control, Eindhoven University for Technology, The Netherlands, 2018.
+* Ph.D in Production Optimization, Norwegian University of Science and Technology, Norway, 2023 (expected).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fixed Position (Industrial): 
+  * End of 2012 - Early 2020: Project Engineer
+    * Pertamina Hulu Energi ONWJ
+    * Main duty: Initiate, propose, design, coordinate, construct, commission, and deliver oil and gas facility projects
+  * Early 2012 - End of 2012: Manager
+    * Rocket Internet International
+    * Main duty: Initiate, develop, run and evaluate e-commerce business process
+  * Early 2011 - Early 2012: Instrumentation and Control Engineer
+    * ExxonMobil
+    * Main duty: Assist and ensure realiable oil and gas production and processing facilities
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Adhoc/Temporary/Project-based Position (Industrial):
+  * Situation Unit Leader
+  * Interface Engineer
+  * Construction Supervisor
+  * Construction Superintendent
+  * Company Authorized Representative
+  * Project Leader
+  * Project Manager
+  * Shutdown Coordinator
+
+* Research-related Position (Academic):
+  * Guest researcher
+  * Teaching assistant
+  * Visiting research student
+
+(Community) Services
+======
+* Reviewer of several Journal of Process.
+* Reviewer of several Papers of Process' Conferences.
+* Vice President Joint Convention Yogyakarta HAGI-iAGI-IAFMI-IATMI 2019.
+* Editorial Member of several IAFMI Journals.
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +79,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
