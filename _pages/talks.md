@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Journal Publications
-======
-* [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. Int. J. Imaging Robot. Vol. 10(2). pp. 58-74.
+* [P1] **Dirza, R.**, Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America.
+* [P2] **Dirza, R.**, Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. Society of Petroleum Engineering Annual Technical Conference and Exhibition (SPE ATCE), September 2021. Dubai, United Arab Emirates.
+* [P3] **Dirza, R.**, Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, October 2020. Copenhagen, Denmark.
 
 <!--{% if site.talkmap_link == true %}
 
