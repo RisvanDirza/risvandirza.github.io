@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* Research-related Position (Academic):
+  * PhD Research Fellow
+  * Guest researcher
+  * Teaching assistant
+  * Visiting research student
+
 * Fixed Position (Industrial): 
   * End of 2012 - Early 2020: Project Engineer
     * Pertamina Hulu Energi ONWJ
@@ -37,11 +43,6 @@ Work experience
   * Project Leader
   * Project Manager
   * Shutdown Coordinator
-
-* Research-related Position (Academic):
-  * Guest researcher
-  * Teaching assistant
-  * Visiting research student
 
 (Community) Services
 ======
