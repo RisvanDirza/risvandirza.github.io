@@ -1,14 +1,14 @@
 ---
-permalink: /markdown/
+permalink: /non-menu-page/ 
 title: "Markdown"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
 ## Locations of key files/directories
-
+<!--/markdown/-->
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
