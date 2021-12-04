@@ -21,12 +21,12 @@ Peer-reviewed Conference Publications
 * [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands.
 * [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
 
-Submitted
+Submitted 
 ======
-* [C11] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. 
-* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. 
-* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. 
-* [C8] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
+* [C11] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. (Provided upon request, feel free to email me) 
+* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
+* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. (Provided upon request, feel free to email me) 
+* [C8] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. (Provided upon request, feel free to email me) 
 
 In Preparation
 ======
