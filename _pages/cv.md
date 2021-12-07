@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering (focus on control engineering), Institute of Technology Bandung (ITB), Indonesia, 2011.
-* M.Sc. in Systems and Control, Eindhoven University for Technology, The Netherlands, 2018.
 * Ph.D in Production Optimization, Norwegian University of Science and Technology, Norway, 2023 (expected).
+* M.Sc. in Systems and Control, Eindhoven University for Technology, The Netherlands, 2018.
+* B.Sc. in Electrical Engineering (focus on control engineering), Institute of Technology Bandung (ITB), Indonesia, 2011.
 
 Work experience
 ======
