@@ -21,9 +21,10 @@ Peer-reviewed Conference Publications
 * [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands.
 * [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
 
-Accepted Abstract 
+Abstract 
 ======
-* **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, January 2022. Luleå, Sweden.
+* [A2] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, January 2022. Luleå, Sweden.
+* [A1] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, October 2020. Copenhagen, Denmark.
 
 Submitted 
 ======
