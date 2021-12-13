@@ -23,7 +23,8 @@ Peer-reviewed Conference Publications
 
 Abstract 
 ======
-* [A2] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, January 2022. Luleå, Sweden.
+* [A3] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, January 2022. Luleå, Sweden.
+* [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America.
 * [A1] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, October 2020. Copenhagen, Denmark.
 
 Submitted 
