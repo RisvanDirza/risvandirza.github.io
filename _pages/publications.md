@@ -29,6 +29,7 @@ Abstract
 
 Submitted 
 ======
+* [C12] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
 * [C11] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. (Provided upon request, feel free to email me) 
 * [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
 * [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. (Provided upon request, feel free to email me) 
@@ -37,7 +38,6 @@ Submitted
 In Preparation
 ======
 * [J3] **Dirza, R.**, and Skogestad, S., Study of Online Hybrid Primal-dual Approach. 
-* [C12] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. 
 * [J2] **Dirza, R.**, Matias, J.A., Krishnamoorthy, D., and Skogestad, S., Experimental Validation of Distributed Feedback-optimizing Control on an Experimental Gas-lifted Oil Well Rig. 
 
 
