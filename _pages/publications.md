@@ -39,6 +39,8 @@ In Preparation
 ======
 * [J3] **Dirza, R.**, and Skogestad, S., Study of Online Hybrid Primal-dual Approach. 
 * [J2] **Dirza, R.**, Matias, J.A., Krishnamoorthy, D., and Skogestad, S., Experimental Validation of Distributed Feedback-optimizing Control on an Experimental Gas-lifted Oil Well Rig. 
+* [C13/J4] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
+* [C14/J5] **Dirza, R.**, Model-free gradient-based feedback-optimizing control.
 
 
 <!-- This content will not appear in the rendered Markdown -->
