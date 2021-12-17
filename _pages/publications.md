@@ -27,12 +27,15 @@ Abstract
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America.
 * [A1] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, October 2020. Copenhagen, Denmark.
 
+Peer-reviewed Conference Publications (Accepted Initial Submission)
+======
+* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+). Kyoto, Japan.
+
 Submitted 
 ======
 * [C12] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
 * [C11] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. (Provided upon request, feel free to email me) 
 * [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
-* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. (Provided upon request, feel free to email me) 
 * [C8] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. (Provided upon request, feel free to email me) 
 
 In Preparation
