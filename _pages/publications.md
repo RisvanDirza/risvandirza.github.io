@@ -21,7 +21,7 @@ Peer-reviewed Conference Publications
 * [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands.
 * [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
 
-Abstract 
+(Extended) Abstract 
 ======
 * [A3] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, January 2022. Luleå, Sweden.
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America.
