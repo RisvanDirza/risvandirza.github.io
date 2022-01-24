@@ -29,11 +29,11 @@ Peer-reviewed Conference Publications
 
 (Extended) Abstract (Accepted)
 ======
-* [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 12-14 January 2022. Luleå, Sweden.
+* [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 16-18 March 2022. Luleå, Sweden.
 
 Peer-reviewed Conference Publications (Accepted Initial Submission)
 ======
-* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+). Kyoto, Japan.
+* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan.
 
 Submitted 
 ======
