@@ -9,7 +9,7 @@ author_profile: true
 
 Journal Publications
 ======
-* [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. Int. J. Imaging Robot. Vol. 10(2). pp. 58-74. ([pdf])(http://academicpages.github.io/files/AGRDTHMF2013.pdf)
+* [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. Int. J. Imaging Robot. Vol. 10(2). pp. 58-74. ([pdf])(http://risvandirza.github.io/files/AGRDTHMF2013.pdf)
 
 Peer-reviewed Conference Publications
 ======
