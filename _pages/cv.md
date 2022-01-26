@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click this [link](https://www.dropbox.com/s/0kpoi5yg9eptdfd/ResumeCV.pdf?dl=0) for full Resume/CV
+
 Education
 ======
 * Ph.D in Production Optimization, Norwegian University of Science and Technology, Norway, 2023 (expected).
