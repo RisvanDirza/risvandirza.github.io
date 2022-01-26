@@ -9,11 +9,11 @@ author_profile: true
 
 Journal Publications
 ======
-* [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. Int. J. Imaging Robot. Vol. 10(2). pp. 58-74. ([pdf](https://www.dropbox.com/s/cd4cw3xp2hp3xcj/AGRDTHMF2013.pdf?dl=0))
+* [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. International Journal of Imaging Robot. Vol. 10(2). pp. 58-74. ([pdf](https://www.dropbox.com/s/cd4cw3xp2hp3xcj/AGRDTHMF2013.pdf?dl=0))
 
 Peer-reviewed Conference Publications
 ======
-* [C7] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., 2021. Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. SPE ATCE 2021. Dubai, UAE.
+* [C7] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., 2021. Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. Society of Petroleum Engineers Annual Technical Conference and Exhibition (SPE ATCE) 2021. Dubai, United Arab Emirates. ([pdf](https://www.dropbox.com/s/8mt47ibqdw82s0h/spe-206102-ms.pdf?dl=0))([link](https://onepetro.org/SPEATCE/proceedings/21ATCE/2-21ATCE/D021S032R004/469411))
 * [C6] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., 2021. Optimal Resource Allocation using Distributed Feedback-based Real-time Optimization. IFAC ADCHEM 2021 (Keynote Paper), IFAC-PapersOnLine, 54(3), pp.706-711. Venice, Italy.
 * [C5] **Dirza, R.**, Marquez-Ruiz, A., Ozkan, L., and Mendez-Blanco, C.S., 2019. Integration of Max-plus-linear scheduling and control. ESCAPE 29. Eindhoven, the Netherlands.
 * [C4] **Dirza, R.**, and Gusrialdi, A., 2011. Performance-guaranteed distributed coverage control for robotic visual sensor network with limited energy storage. IEEE Proceedings of the 2nd International Conference on Instrumentation Control and Automation. Bandung, Indonesia.
