@@ -33,14 +33,14 @@ Peer-reviewed Conference Publications
 
 Peer-reviewed Conference Publications (Accepted Initial Submission)
 ======
-* [C9] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan.
+* [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan.
+* [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 
 Submitted 
 ======
 * [C12] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
-* [C11] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. (Provided upon request, feel free to email me) 
-* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
-* [C8] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. (Provided upon request, feel free to email me) 
+* [C11] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
+* [C10] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. (Provided upon request, feel free to email me) 
 
 In Preparation
 ======
