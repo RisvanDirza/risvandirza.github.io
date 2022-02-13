@@ -18,7 +18,7 @@ Peer-reviewed Conference Publications
 * [C5] **Dirza, R.**, Marquez-Ruiz, A., Ozkan, L., and Mendez-Blanco, C.S., 2019. Integration of Max-plus-linear scheduling and control. The 29nd European Symposium on Computer-Aided Process Engineering (ESCAPE 29) 2019. Computer Aided Chemical Engineering, 46, pp.1279-1284. Eindhoven, The Netherlands. ([pdf](https://www.dropbox.com/s/lut9w7ziyyeex5k/ESCAPE29.pdf?dl=0))([link](https://www.sciencedirect.com/science/article/abs/pii/B9780128186343502149))
 * [C4] **Dirza, R.**, and Gusrialdi, A., 2011. Performance-guaranteed distributed coverage control for robotic visual sensor network with limited energy storage. IEEE Proceedings of the 2nd International Conference on Instrumentation Control and Automation. Bandung, Indonesia. ([pdf](https://www.dropbox.com/s/17dt1q1w9yvibsg/RDAG2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/6130182))
 * [C3] Pradini, A., Roffi, T.M., **Dirza, R.**, and Adiono, T., 2011. VLSI design of a high-throughput discrete cosine transform for image compression systems. IEEE Proceedings of the International Conference on Electrical Engineering and Informatics. Bandung, Indonesia. ([pdf](https://www.dropbox.com/s/q67nahuitlsc374/APTMRRDTA2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/6021587))
-* [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands.
+* [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands. ([pdf](https://www.dropbox.com/s/q2qyoddtxak2751/AGRDSH2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/5874891))
 * [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
 
 (Extended) Abstract 
@@ -31,23 +31,24 @@ Peer-reviewed Conference Publications
 ======
 * [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 16-18 March 2022. Luleå, Sweden.
 
-Peer-reviewed Conference Publications (Accepted Initial Submission)
+Peer-reviewed Conference Publications (Accepted Initial Submission/Camera-ready version submitted)
 ======
 * [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan.
 * [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 
 Submitted 
 ======
-* [C12] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
-* [C11] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
-* [C10] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. (Provided upon request, feel free to email me) 
+* [C11] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
+* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. (Provided upon request, feel free to email me) 
 
 In Preparation
 ======
-* [J3] **Dirza, R.**, and Skogestad, S., Study of Online Hybrid Primal-dual Approach. 
 * [J2] **Dirza, R.**, Matias, J.A., Krishnamoorthy, D., and Skogestad, S., Experimental Validation of Distributed Feedback-optimizing Control on an Experimental Gas-lifted Oil Well Rig. 
-* [C13/J4] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
-* [C14/J5] **Dirza, R.**, Model-free gradient-based feedback-optimizing control.
+* [J3] **Dirza, R.**, Skogestad, S., and  Study of Online Hybrid Primal-dual Approach. 
+* [J4] **Dirza, R.**, and Skogestad, S., Krishnamoorthy, D., Distributed Feedback-optimizing Control based on Primal Decomposition. 
+* [C12/J5] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
+* [C13/J6] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
+* [C14/J7] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
 
 
 <!-- This content will not appear in the rendered Markdown -->
