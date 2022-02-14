@@ -23,7 +23,7 @@ Peer-reviewed Conference Publications
 
 (Extended) Abstract 
 ======
-* [A3] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, 7-19 November 2021. Boston, United States of America. (pdf)
+* [A3] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, 7-19 November 2021. Boston, United States of America. ([pdf](https://www.dropbox.com/s/bkffav8lg4i7vqh/RDSSDK_2021AICHE.pdf?dl=0))
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark. (pdf)
 * [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan. (pdf)
 
