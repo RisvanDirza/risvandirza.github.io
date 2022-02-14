@@ -19,13 +19,13 @@ Peer-reviewed Conference Publications
 * [C4] **Dirza, R.**, and Gusrialdi, A., 2011. Performance-guaranteed distributed coverage control for robotic visual sensor network with limited energy storage. IEEE Proceedings of the 2nd International Conference on Instrumentation Control and Automation. Bandung, Indonesia. ([pdf](https://www.dropbox.com/s/17dt1q1w9yvibsg/RDAG2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/6130182))
 * [C3] Pradini, A., Roffi, T.M., **Dirza, R.**, and Adiono, T., 2011. VLSI design of a high-throughput discrete cosine transform for image compression systems. IEEE Proceedings of the International Conference on Electrical Engineering and Informatics. Bandung, Indonesia. ([pdf](https://www.dropbox.com/s/q67nahuitlsc374/APTMRRDTA2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/6021587))
 * [C2] Gusrialdi, A., **Dirza, R.**, and Hirche, S., 2011. Information-driven distributed coverage algorithms for mobile sensor networks. IEEE Proceedings of the International Conference on Networking, Sensing and Control. Delft, the Netherlands. ([pdf](https://www.dropbox.com/s/q2qyoddtxak2751/AGRDSH2011.pdf?dl=0))([link](https://ieeexplore.ieee.org/document/5874891))
-* [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia.
+* [C1] **Dirza, R.**, Fujita, M., and Riyanto, B., 2010. Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks. Proceedings of the 6th International Conference on Intelligent Unmanned Systems. Bali, Indonesia. ([pdf](https://www.dropbox.com/s/onthk6zppa7lkwt/RDTHMFBRT2010.pdf?dl=0)).
 
 (Extended) Abstract 
 ======
-* [A3] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, 7-19 November 2021. Boston, United States of America.
-* [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark.
-* [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for MobileSensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan.
+* [A3] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, 7-19 November 2021. Boston, United States of America. (pdf)
+* [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark. (pdf)
+* [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan. (pdf)
 
 (Extended) Abstract (Accepted)
 ======
