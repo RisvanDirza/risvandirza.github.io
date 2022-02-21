@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* [P11] **Dirza, R.**, Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America. (Slide)(Video)
+* [P11] **Dirza, R.**, Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America. ([Slide](https://www.dropbox.com/s/nyo89d07pvpp20k/RRSSDK_2021AIChE_Slides.pdf?dl=0))(Video)
 * [P10] **Dirza, R.**, Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. Society of Petroleum Engineering Annual Technical Conference and Exhibition (SPE ATCE), September 2021. Dubai, United Arab Emirates. (Slide)(Video)
 * [P9] **Dirza, R.**, Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, October 2020. Copenhagen, Denmark. ([Slide](https://www.dropbox.com/s/3qjyve06x8xl1nd/2020_Dirza_Cooperative%20Distributed%20RTO_Presentation_CAPE%20Forum%202020.pdf?dl=0))
 * [P8] **Dirza, R.**, Maximizing Asset Potential by Creating an Optimal Integrated-Decision-Making Methodology.  UpstreamTechnology Sharing Forum Pertamina, November 2019.  Tangerang, Indonesia. (Slide)
