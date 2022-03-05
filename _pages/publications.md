@@ -27,13 +27,16 @@ Peer-reviewed Conference Publications
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark. ([pdf](https://www.dropbox.com/s/lfwd6emtvhzd2e1/2020_Dirza_Cooperative%20Distributed%20RTO_Abstract_CAPE%20Forum%202020.pdf?dl=0))
 * [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan. (pdf)
 
+Peer-reviewed Conference Publications (In Press)
+======
+* [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan. ([pdf](https://www.dropbox.com/s/jsc8zb8jimhklxb/RDDKSS_2022PSE.pdf?dl=0))
+
 (Extended) Abstract (Accepted)
 ======
 * [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 16-18 March 2022. Luleå, Sweden.
 
 Peer-reviewed Conference Publications (Accepted Initial Submission/Camera-ready version submitted)
 ======
-* [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan.
 * [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 
 Submitted 
