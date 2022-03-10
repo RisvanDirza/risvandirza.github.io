@@ -37,7 +37,7 @@ Peer-reviewed Conference Publications (In Press)
 
 Peer-reviewed Conference Publications (Accepted Initial Submission/Camera-ready version submitted)
 ======
-* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Venice, Italy.
+* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea.
 * [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 
 
