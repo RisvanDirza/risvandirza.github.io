@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* **09.03.2022:** The first initial submission of our Peer-reviewed Conference Paper, "Online Feedback-based Optimization with Multi-input Direct Constraint Control", is accepted in The 13th IFAC Symposium on Dynamics and Control of Process Systems [(IFAC DYCOPS)](http://dycops2022.org/), and is selected for oral presentation : 14th - 17th of June 2022 in Busan, Republic of Korea, and we start working on the final version since now.
 * **22.02.2022:** Our Peer-reviewed Conference Paper, "Primal-dual Feedback-optimizing Control with Direct Constraint Control", is accepted in The 14th Symposium of Process System Engineering [(PSE2021+)](http://pse2021.jp/index.html), and is selected for oral presentation : 19th - 23rd of June 2022 in Kyoto, Japan.
 * **25.01.2022:** The first initial submission of our Peer-reviewed Conference Paper, "Systematic Pairing Selection for Economic-oriented Constraint Control", is accepted in The 32nd European Symposium of Computer-Aided Process Engineering [(ESCAPE 32)](https://escape32.inp-toulouse.fr/en/index.html), and we start working on the final version since now.
 * **17.12.2021:** The first initial submission of our Peer-reviewed Conference Paper, "Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production", is accepted in The 14th Symposium of Process System Engineering [(PSE2021+)](http://pse2021.jp/index.html), and we start working on the final version since now.
