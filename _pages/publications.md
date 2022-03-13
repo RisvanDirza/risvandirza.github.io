@@ -41,19 +41,20 @@ Peer-reviewed Conference Publications (Accepted Initial Submission/Camera-ready 
 * [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 
 
-Submitted 
+Submitted/ Under Review 
 ======
+* [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. (Provided upon request, feel free to email me)
 * [C11] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
 
 
 In Preparation
 ======
-* [J2] **Dirza, R.**, Matias, J.A., Krishnamoorthy, D., and Skogestad, S., Experimental Validation of Distributed Feedback-optimizing Control on an Experimental Gas-lifted Oil Well Rig. 
 * [J3] **Dirza, R.**, Skogestad, S., and  Study of Online Hybrid Primal-dual Approach. 
 * [J4] **Dirza, R.**, and Skogestad, S., Krishnamoorthy, D., Distributed Feedback-optimizing Control based on Primal Decomposition. 
 * [C12/J5] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
 * [C13/J6] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
 * [C14/J7] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
+* [C15/J8] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
 
 
 <!-- This content will not appear in the rendered Markdown -->
