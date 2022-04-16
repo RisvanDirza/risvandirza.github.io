@@ -23,30 +23,33 @@ Peer-reviewed Conference Publications
 
 (Extended) Abstract 
 ======
+* [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 16-18 March 2022. Luleå, Sweden.
 * [A3] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, 7-19 November 2021. Boston, United States of America. ([pdf](https://www.dropbox.com/s/bkffav8lg4i7vqh/RDSSDK_2021AICHE.pdf?dl=0))
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark. ([pdf](https://www.dropbox.com/s/lfwd6emtvhzd2e1/2020_Dirza_Cooperative%20Distributed%20RTO_Abstract_CAPE%20Forum%202020.pdf?dl=0))
 * [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan. (pdf)
 
 Peer-reviewed Conference Publications (In Press)
 ======
+* [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 * [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan. ([pdf](https://www.dropbox.com/s/jsc8zb8jimhklxb/RDDKSS_2022PSE.pdf?dl=0))
 
 (Extended) Abstract (Accepted)
 ======
-* [A4] **Dirza, R.**, and Skogestad, S., Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 16-18 March 2022. Luleå, Sweden.
+* --
 
 Peer-reviewed Conference Publications (Camera-ready version submitted)
 ======
-* [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
+* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea.
 
 Peer-reviewed Conference Publications (Accepted Initial Submission)
 ======
-* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea.
+* [C11] **Dirza, R.**, Rizwan, Md., Skogestad, S., and Krishnamoorthy, D., Real-time Optimal Resource Allocation using Online Primal Decomposition. International Federation of Automatic Control Symposium on Control, Optimization, and Automation in Mining, Mineral and Metal Processing (IFAC MMM) 2022, 15-17 August 2022. Montreal, Canada.
+
 
 Submitted/ Under Review 
 ======
 * [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. (Provided upon request, feel free to email me)
-* [C11] **Dirza, R.**, Rizwan, Md., and Skogestad, S., Real-time Optimal Resource Allocation using Online Primal Decomposition. (Provided upon request, feel free to email me)
+* [A5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Optimizing Control Based on Primal Decomposition. (Provided upon request, feel free to email me)
 
 
 In Preparation
