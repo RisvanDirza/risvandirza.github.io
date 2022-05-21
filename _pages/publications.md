@@ -30,6 +30,8 @@ Peer-reviewed Conference Publications
 
 Peer-reviewed Conference Publications (In Press)
 ======
+* [C11] **Dirza, R.**, Rizwan, Md., Skogestad, S., and Krishnamoorthy, D., Real-time Optimal Resource Allocation using Online Primal Decomposition. International Federation of Automatic Control Symposium on Control, Optimization, and Automation in Mining, Mineral and Metal Processing (IFAC MMM) 2022, 15-17 August 2022. Montreal, Canada.
+* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea.
 * [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France.
 * [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan. ([pdf](https://www.dropbox.com/s/jsc8zb8jimhklxb/RDDKSS_2022PSE.pdf?dl=0))
 
@@ -39,14 +41,14 @@ Peer-reviewed Conference Publications (In Press)
 
 Peer-reviewed Conference Publications (Camera-ready version submitted)
 ======
-* [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea.
+* --
 
 Peer-reviewed Conference Publications (Accepted Initial Submission)
 ======
-* [C11] **Dirza, R.**, Rizwan, Md., Skogestad, S., and Krishnamoorthy, D., Real-time Optimal Resource Allocation using Online Primal Decomposition. International Federation of Automatic Control Symposium on Control, Optimization, and Automation in Mining, Mineral and Metal Processing (IFAC MMM) 2022, 15-17 August 2022. Montreal, Canada.
+* --
 
 
-Submitted/ Under Review 
+Submitted/ Under Review/ Under Revision 
 ======
 * [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. (Provided upon request, feel free to email me)
 * [A5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Optimizing Control Based on Primal Decomposition. (Provided upon request, feel free to email me)
@@ -56,10 +58,11 @@ In Preparation
 ======
 * [J3] **Dirza, R.**, Skogestad, S., and  Study of Online Hybrid Primal-dual Approach. 
 * [J4] **Dirza, R.**, and Skogestad, S., Krishnamoorthy, D., Distributed Feedback-optimizing Control based on Primal Decomposition. 
-* [C12/J5] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
-* [C13/J6] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
-* [C14/J7] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
-* [C15/J8] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
+* [C12] **Dirza, R.**, and Skogestad, S., Handling Interactive Systems in Primal-Dual Feedback-optimizing Control.
+* [C13/J5] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
+* [C14/J6] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
+* [C15/J7] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
+* [C16/J8] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
 
 
 <!-- This content will not appear in the rendered Markdown -->
