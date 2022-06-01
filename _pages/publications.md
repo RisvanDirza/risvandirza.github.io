@@ -13,6 +13,7 @@ Journal Publications
 
 Peer-reviewed Conference Publications
 ======
+* [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France. ([pdf](https://www.dropbox.com/s/gq83ild66hukrvc/RD_SS_ESCAPE32_FinalVersion.pdf?dl=0))
 * [C8] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan. ([pdf](https://www.dropbox.com/s/jsc8zb8jimhklxb/RDDKSS_2022PSE.pdf?dl=0))
 * [C7] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., 2021. Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. Society of Petroleum Engineers Annual Technical Conference and Exhibition (SPE ATCE) 2021. Dubai, United Arab Emirates. ([pdf](https://www.dropbox.com/s/8mt47ibqdw82s0h/spe-206102-ms.pdf?dl=0))([link](https://onepetro.org/SPEATCE/proceedings/21ATCE/2-21ATCE/D021S032R004/469411))
 * [C6] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., 2021. Optimal Resource Allocation using Distributed Feedback-based Real-time Optimization. International Federation of Automatic Control Symposium on Advanced Control of Chemical Processes (IFAC ADCHEM) 2021 (Keynote Paper), IFAC-PapersOnLine, 54(3), pp.706-711. Venice, Italy. ([pdf](https://www.dropbox.com/s/7yawn2rohhx1izr/IFACADCHEM_RDSSDK2021.pdf?dl=0))([link](https://www.sciencedirect.com/science/article/pii/S2405896321010983))
@@ -33,7 +34,7 @@ Peer-reviewed Conference Publications (In Press)
 ======
 * [C11] **Dirza, R.**, Rizwan, Md., Skogestad, S., and Krishnamoorthy, D., Real-time Optimal Resource Allocation using Online Primal Decomposition. International Federation of Automatic Control Symposium on Control, Optimization, and Automation in Mining, Mineral and Metal Processing (IFAC MMM) 2022, 15-17 August 2022. Montreal, Canada.
 * [C10] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea. ([pdf](https://www.dropbox.com/s/pbdg1l62nq032dw/RD_SS_DYCOPS22_FINAL.pdf?dl=0))
-* [C9] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France. ([pdf](https://www.dropbox.com/s/gq83ild66hukrvc/RD_SS_ESCAPE32_FinalVersion.pdf?dl=0))
+
 
 
 (Extended) Abstract (Accepted)
