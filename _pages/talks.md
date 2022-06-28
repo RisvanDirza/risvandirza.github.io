@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* [P15] **Dirza, R.**, Krishnamoorthy, D., and Skogestad, S., Primal-dual Feedback-optimizing Control with Direct Constraint Control for Oil Production. The 14th Symposium of Process Systems Engineering (PSE 2021+), 19-23 June 2022. Kyoto, Japan. (Slide)
+* [P14] **Dirza, R.**, and Skogestad, S., Online Feedback-based Optimization with Multi-input Direct Constraint Control. International Federation of Automatic Control Symposium on Dynamics and Control of Process Systems (IFAC DYCOPS) 2022, 14-17 June 2022. Busan, Republic of Korea. (Slide)
+* [P13] **Dirza, R.**, and Skogestad, S., Systematic Pairing Selection for Economic-oriented Constraint Control. The 32nd European Symposium of Computer-Aided Process Engineering (ESCAPE 32), 12-15 June 2022. Toulose, France. (Slide)
 * [P12] **Dirza, R.**, Generalized Primal-dual Feedback-optimizing Control with Direct Constraint Control. The 23rd Nordic Process Control Workshop, 17 March 2022. Luleå, Sweden. ([Slide](https://www.dropbox.com/s/mcppmrqysyiwadq/RDSS_2022NPCW_Slides.pdf?dl=0))
 * [P11] **Dirza, R.**, Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Based RTO. American Institute of Chemical Engineers (AIChe) Annual Meeting, November 2021. Boston, United States of America. ([Slide](https://www.dropbox.com/s/nyo89d07pvpp20k/RRSSDK_2021AIChE_Slides.pdf?dl=0))(Video)
 * [P10] **Dirza, R.**, Real-Time Optimal Resource Allocation and Constraint Negotiation Applied to A Subsea Oil Production Network. Society of Petroleum Engineering Annual Technical Conference and Exhibition (SPE ATCE), September 2021. Dubai, United Arab Emirates. (Slide)(Video)
