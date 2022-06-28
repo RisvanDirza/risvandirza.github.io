@@ -30,6 +30,10 @@ Peer-reviewed Conference Publications
 * [A2] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Real-Time Optimal Resource Allocation Using Transient Measurements Based on Cooperative Game. Computer Aided Process Engineering (CAPE) Forum, 7-9 October 2020. Copenhagen, Denmark. ([pdf](https://www.dropbox.com/s/lfwd6emtvhzd2e1/2020_Dirza_Cooperative%20Distributed%20RTO_Abstract_CAPE%20Forum%202020.pdf?dl=0))
 * [A1] **Dirza, R.**, Finite Energy Coverage Control with Limited Range Anisotropic Sensor for Mobile Sensor Networks.  YSEP 2009/2010 Seminar, 6 August 2010.  Tokyo, Japan. (pdf)
 
+Journal Publications (In Press)
+======
+* [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. Control Engineering Practice. (pdf).
+
 Peer-reviewed Conference Publications (In Press)
 ======
 * [C11] **Dirza, R.**, Rizwan, Md., Skogestad, S., and Krishnamoorthy, D., Real-time Optimal Resource Allocation using Online Primal Decomposition. International Federation of Automatic Control Symposium on Control, Optimization, and Automation in Mining, Mineral and Metal Processing (IFAC MMM) 2022, 15-17 August 2022. Montreal, Canada.
@@ -52,7 +56,6 @@ Peer-reviewed Conference Publications (Accepted Initial Submission)
 
 Submitted/ Under Review/ Under Revision 
 ======
-* [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. (Provided upon request, feel free to email me)
 * [A5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Optimizing Control Based on Primal Decomposition. (Provided upon request, feel free to email me)
 
 
