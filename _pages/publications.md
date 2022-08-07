@@ -9,6 +9,7 @@ author_profile: true
 
 Journal Publications
 ======
+* [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. Control Engineering Practice. (pdf) ([link](https://www.sciencedirect.com/science/article/pii/S0967066122001216))
 * [J1] Gusrialdi, A., **Dirza, R.**, Hatanaka, T., and Fujita, M., 2013. Improved distributed coverage control for robotic visual sensor network under limited energy storage. International Journal of Imaging Robot. Vol. 10(2). pp. 58-74. ([pdf](https://www.dropbox.com/s/cd4cw3xp2hp3xcj/AGRDTHMF2013.pdf?dl=0))([link](http://www.ceser.in/ceserp/index.php/iji/article/view/2868))
 
 Peer-reviewed Conference Publications
@@ -32,7 +33,7 @@ Peer-reviewed Conference Publications
 
 Journal Publications (In Press)
 ======
-* [J2] **Dirza, R.**, Matias, J.A., and Skogestad, S., and Krishnamoorthy, D., Experimental Validation of Distributed Feedback-based Real-Time Optimization in a Gas-lifted Oil Well Rig. Control Engineering Practice. (pdf).
+* --.
 
 Peer-reviewed Conference Publications (In Press)
 ======
@@ -43,7 +44,7 @@ Peer-reviewed Conference Publications (In Press)
 
 (Extended) Abstract (Accepted)
 ======
-* --
+* [A5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Optimizing Control Based on Primal Decomposition. American Institute of Chemical Engineers (AIChe) Annual Meeting, 13-18 November 2022. Phoenix, United States of America.
 
 Peer-reviewed Conference Publications (Camera-ready version submitted)
 ======
@@ -56,18 +57,20 @@ Peer-reviewed Conference Publications (Accepted Initial Submission)
 
 Submitted/ Under Review/ Under Revision 
 ======
-* [A5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Optimal Resource Allocation in a Subsea Oil Production Network Using Distributed Feedback-Optimizing Control Based on Primal Decomposition. (Provided upon request, feel free to email me)
+* [C12] **Dirza, R.**, and Skogestad, S., Handling Interactive Systems in Primal-Dual Feedback-optimizing Control. (Provided upon request, feel free to email me)
 
 
 In Preparation
 ======
-* [J3] **Dirza, R.**, Skogestad, S., and  Study of Online Hybrid Primal-dual Approach. 
-* [J4] **Dirza, R.**, and Skogestad, S., Krishnamoorthy, D., Distributed Feedback-optimizing Control based on Primal Decomposition. 
-* [C12] **Dirza, R.**, and Skogestad, S., Handling Interactive Systems in Primal-Dual Feedback-optimizing Control.
-* [C13/J5] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
-* [C14/J6] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
-* [C15/J7] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
-* [C16/J8] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
+* [J3] **Dirza, R.**, and Skogestad, S., Full Primal-Dual Feedback-optimizing with Override Constraint Control.
+* [J4] **Dirza, R.**, and Skogestad, S., Primal-Dual Real-time Optimization (RTO) with Override Constraint Control for Coupling Constraint  
+* [J5] **Dirza, R.**, Skogestad, S., and Krishnamoorthy, D., Distributed Feedback-optimizing Control based on Primal Decomposition. 
+* [C13/J6] **Dirza, R.**, and Skogestad, S., Real-time Feedback-based Optimization Applied to an Energy-aware Gas-lift Optimization Problem. 
+* [C14/J7] **Dirza, R.**, Field-wide gas-lifted oil production system modeling. 
+* [C15/J8] **Dirza, R.**, Model-free/Combined First-principle gradient-based feedback-optimizing control.
+* [C16/J9] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
+* [A6] **Dirza, R.**, On combining self-optimizing control and linear combination of gradient estimation in the context of real-time optimization.
+* [A7] **Dirza, R.**, Field-wide gas-lifted oil production optimization with efficient measurement set. 
 
 
 <!-- This content will not appear in the rendered Markdown -->
