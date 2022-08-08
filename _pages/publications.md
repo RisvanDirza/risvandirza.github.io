@@ -71,6 +71,8 @@ In Preparation
 * [C16/J9] **Dirza, R.**, Primal-Dual with Multi-Input Direct Constraint Control Based on Input Sensitivities.
 * [A6] **Dirza, R.**, On combining self-optimizing control and linear combination of gradient estimation in the context of real-time optimization.
 * [A7] **Dirza, R.**, Field-wide gas-lifted oil production optimization with efficient measurement set. 
+* [A8] **Dirza, R.**, Self-optimizing Control of a circulated gas-lifted oil production system.
+* [A9] **Dirza, R.**, Excitation-free method in handling plant model mismatch. 
 
 
 <!-- This content will not appear in the rendered Markdown -->
